@@ -1,9 +1,0 @@
-"Saler per order" seems to be a term that might be a typo or a misinterpretation. I assume you meant "sale per order." Let me explain both terms:
-
-1. **Sale per Order:**
-   - This refers to the total revenue generated from a single transaction or order. It is the amount of money a business earns from selling a product or service in a specific transaction. For example, if a customer purchases two items for 50 dollar each in a single order, the sale per order would be 100 dollar.
-
-2. **Profit per Order:**
-   - Profit per order, on the other hand, takes into account not just the revenue from the sale but also deducts all the costs associated with that particular order. The costs may include manufacturing costs, shipping costs, overhead, and any other expenses related to fulfilling the order. The profit per order is the net income the business earns from a specific transaction after all the associated costs have been subtracted.
-
-In summary, while "sale per order" focuses on the total revenue from a transaction, "profit per order" considers the net income by subtracting all associated costs. Profit per order provides a more accurate measure of the financial health of a business for a specific transaction.
