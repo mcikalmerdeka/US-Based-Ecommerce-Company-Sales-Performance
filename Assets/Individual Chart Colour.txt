@@ -1,0 +1,8 @@
+Background colour
+HEX:
+
+#681f7f
+
+RGB:
+
+rgba(104,31,127,255)
