@@ -4,7 +4,7 @@
 
 A US Based Ecommerce Sales Company wants us to create a Sales Dashboard showing information of YTD Sales and generate insights for improving business performance with below scenarios :
 
-- Create a KPI Banner showing YTD Sales, YTD Profit, YTD Quantity sold, YTD Profit Margin.
+- Create a KPI Banner showing YTD Sales, YTD Profit, and YTD Quantity sold.
 
 - Find Year on Year Growth for each KPI and show a YTD sparkline for each measure in the KPI to understand the monthly trend for each fact.
 
@@ -30,4 +30,8 @@ Dataset and inspiration source :
 
 ## Dashboard Preview
 
-**Tableau Dashboard** : [Link to Tableau Public Dashboard](https://public.tableau.com/views/USBasedEcommerceCompanySalesPerformance/SalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Tableau Dashboard** : [Link to Tableau Public Dashboard](https://public.tableau.com/views/USBasedEcommerceCompanySalesPerformance/SalesPerformanceDashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Dashboard Explanation**: All the visualizations in the dashboard follows the business requirements from sales department. The piechart of region and shipping type and table of category name act as the filter for the whole visualization components in the dashboard.
+
+![Dashboard Preview](https://raw.githubusercontent.com/mcikalmerdeka/US-Based-Ecommerce-Company-Sales-Performance/refs/heads/main/Assets/US%20Ecommerce%20Sales%20Dashboard.png)
