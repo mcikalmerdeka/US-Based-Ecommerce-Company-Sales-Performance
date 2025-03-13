@@ -1,5 +1,7 @@
 # US Based Ecommerce Company-Sales Performance
 
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/US-Based-Ecommerce-Company-Sales-Performance/refs/heads/main/Assets/Project%20Header.jpg)
+
 ## Project Description
 
 A US Based Ecommerce Sales Company wants us to create a Sales Dashboard showing information of YTD Sales and generate insights for improving business performance with below scenarios :
